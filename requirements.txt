@@ -1,0 +1,8 @@
+generative-ai-hub-sdk[all]
+streamlit
+hdbcli
+langchain
+chromadb
+sentence-transformers
+openai
+tiktoken
